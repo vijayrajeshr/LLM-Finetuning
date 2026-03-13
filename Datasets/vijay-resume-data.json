@@ -1,0 +1,131 @@
+{
+  "personal_information": {
+    "name": "Vijay Rajesh R",
+    "professional_titles": [
+      "AWS Certified Cloud Practitioner",
+      "Oracle Certified Gen-AI Professional",
+      "Open Source Contributor"
+    ],
+    "contact": {
+      "phone": "+91 73737 07055",
+      "email": "vijayrajeshr@gmail.com",
+      "linkedin": "linkedin.com/in/vijayrajeshr",
+      "github": "github.com/vijayrajeshr",
+      "location": "Tamil Nadu, India"
+    }
+  },
+  "professional_summary": "An AWS Cloud Practitioner Oracle-certified Gen-AI Professional and Proficient in AWS and an Open Source Contributor currently pursuing B.Tech in AIML at VIT Bhopal. Strong understanding of software development, machine learning workflows, cloud infrastructure, and data analytics. Committed to building impactful real-world systems and continuously learning new technologies. Agile, highly-productive Supertasker.",
+  "education": [
+    {
+      "institution": "VIT Bhopal University",
+      "location": "Bhopal, India",
+      "degree": "B.Tech in Artificial Intelligence and Machine Learning",
+      "duration": "2023-2027"
+    }
+  ],
+  "technical_skills": {
+    "ai_ml": [
+      "Generative AI",
+      "Machine Learning",
+      "NLP",
+      "Scikit-learn"
+    ],
+    "cloud_infrastructure": [
+      "AWS Infrastructure",
+      "Oracle Cloud (OCI)"
+    ],
+    "development_tools": [
+      "React",
+      "MongoDB",
+      "Git/GitHub",
+      "Python"
+    ],
+    "data_analytics": [
+      "Power BI",
+      "Data Warehousing",
+      "Google Analytics",
+      "Excel-based visualizations"
+    ]
+  },
+  "certifications": [
+    "AWS Cloud Practitioner",
+    "Oracle Cloud Infrastructure 2025 Certified Gen-AI Professional",
+    "Google Data Analytics Professional Certificate - Coursera",
+    "IBM Machine Learning with Python - Coursera",
+    "Data Analytics Trainee - Med Tour Easy"
+  ],
+  "professional_experience": [
+    {
+      "role": "Web Development And Operations Intern",
+      "company": "Olcademy",
+      "location": "Remote",
+      "duration": "Dec 2025 - Present",
+      "highlights": [
+        "Engineered robust application logic and high-fidelity UI components using React and modern CSS frameworks",
+        "Directed cross-functional teams as Project Lead, streamlining operational workflows and technical documentation"
+      ]
+    },
+    {
+      "role": "Internship Trainee - Data Analytics",
+      "company": "Med TourEasy",
+      "location": "Delhi, India",
+      "duration": "Jul 2025 - August 2025",
+      "highlights": [
+        "Analyzed datasets to generate 3+ monthly healthcare reports using Python",
+        "Increased trend insight accuracy by 25% using Excel-based visualizations"
+      ]
+    },
+    {
+      "role": "Marketing Strategist and Volunteer",
+      "company": "Pawzz Foundation",
+      "location": "Remote",
+      "duration": "Jun 2025 - July 2025",
+      "highlights": [
+        "Drove 20% increase in donor engagement via targeted digital campaigns",
+        "Executed outreach strategy, reaching 1K+ individuals through 5 events"
+      ]
+    },
+    {
+      "role": "Strategist",
+      "company": "InAmigos Foundation (IAF)",
+      "location": "Remote",
+      "duration": "May 2025 - Jul 2025",
+      "highlights": [
+        "Led 3+ campaign strategy plans, resulting in 30% boost in outreach response",
+        "Collaborated with 4+ stakeholders to implement awareness strategies"
+      ]
+    },
+    {
+      "role": "Intern - AI/ML Research",
+      "company": "Edu Versity",
+      "location": "Remote",
+      "duration": "Jan 2024 - Feb 2025",
+      "highlights": [
+        "Trained and evaluated 6+ ML models, achieving 85%+ accuracy",
+        "Streamlined preprocessing workflows, reducing model dev time by 20%"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "AWS Remastered Version",
+      "year": "2025",
+      "description": "A front end project to demonstrate the working of AWS, especially for beginners."
+    },
+    {
+      "title": "Face-detection-using-opencv-and-python",
+      "year": "2025",
+      "description": "Python based project to detect faces using built-in webcam in real time."
+    },
+    {
+      "title": "Sign Language Prediction",
+      "year": "2025",
+      "description": "Deep learning-based system for real-time ASL alphabet recognition using CNN."
+    },
+    {
+      "title": "File Flex",
+      "year": "2025",
+      "description": "Web application designed for users to effortlessly convert and compress files."
+    }
+  ]
+}
