@@ -1,0 +1,169 @@
+{
+  "personal_info": {
+    "full_name": "Vijay Rajesh R",
+    "pronouns": "He/Him",
+    "location": {
+      "state": "Tamil Nadu",
+      "country": "India"
+    },
+    "contact": {
+      "email": "vijayrajeshr@gmail.com",
+      "phone": "+91 73737 07055",
+      "linkedin": "linkedin.com/in/vijayrajeshr",
+      "github": "github.com/vijayrajeshr",
+      "portfolio": "https://vijayrajeshr.vercel.app/",
+      "orcid": "0009-0000-1321-8357"
+    },
+    "summary": "An AWS Cloud Practitioner, Oracle-certified Gen-AI Professional, and Open Source Contributor currently pursuing B.Tech in AIML at VIT Bhopal. Agile, highly-productive supertasker committed to building impactful real-world systems."
+  },
+  "education": [
+    {
+      "institution": "VIT Bhopal University (Vellore Institute of Technology)",
+      "degree": "Bachelor of Technology (B.Tech)",
+      "major": "Artificial Intelligence and Machine Learning",
+      "duration": "2023 - 2027",
+      "status": "Currently Enrolled"
+    },
+    {
+      "institution": "Vailankanni Public School [CBSE]",
+      "degree": "High School Diploma",
+      "duration": "2013 - 2023"
+    }
+  ],
+  "technical_skills": {
+    "artificial_intelligence": ["Generative AI", "Large Language Models (LLMs)", "RAG (Retrieval-Augmented Generation)", "Machine Learning", "NLP", "Deep Learning", "Computer Vision"],
+    "cloud_infrastructure": ["AWS (Amazon Web Services)", "Oracle Cloud Infrastructure (OCI)"],
+    "programming_languages": ["Python", "C++", "Java", "MATLAB", "SQL", "R"],
+    "web_technologies": ["React", "MongoDB", "Modern CSS frameworks", "Front-End Development"],
+    "data_analytics": ["Power BI", "Tableau", "Excel", "Data Warehousing", "Google Analytics"],
+    "tools_and_devops": ["Git", "GitHub", "MySQL", "Scikit-learn", "DevOps"]
+  },
+  "certifications": [
+    {
+      "title": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "date_issued": "Feb 2026",
+      "credential_id": "1d956a0e60924a58bc3d6f30f8a668b5"
+    },
+    {
+      "title": "Oracle Cloud Infrastructure 2025 Certified Generative AI Professional",
+      "issuer": "Oracle",
+      "date_issued": "2025"
+    },
+    {
+      "title": "Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate",
+      "issuer": "Oracle",
+      "date_issued": "2025"
+    },
+    {
+      "title": "Google Data Analytics Professional Certificate",
+      "issuer": "Coursera / Google",
+      "details": ["SQL", "R", "Tableau"]
+    },
+    {
+      "title": "IBM Machine Learning with Python",
+      "issuer": "Coursera / IBM"
+    },
+    {
+      "title": "Foundations of User Experience (UX) Design",
+      "issuer": "Coursera / Google"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Web Development And Operations Intern",
+      "company": "Olcademy",
+      "duration": "Dec 2025 - Present",
+      "location": "Bhopal, India (Remote)",
+      "highlights": [
+        "Engineered robust application logic and high-fidelity UI components using React.",
+        "Directed cross-functional teams as Project Lead, streamlining operational workflows."
+      ]
+    },
+    {
+      "role": "Internship Trainee - Data Analytics",
+      "company": "Med TourEasy",
+      "duration": "Jul 2025 - Aug 2025",
+      "location": "Delhi, India (Remote)",
+      "highlights": [
+        "Analyzed datasets to generate monthly healthcare reports using Python.",
+        "Increased trend insight accuracy by 25% using Excel-based visualizations.",
+        "Completed project: 'Analyze Death Age Difference of Right Handers with Left Handers'."
+      ]
+    },
+    {
+      "role": "Marketing Strategist and Volunteer",
+      "company": "Pawzz Foundation",
+      "duration": "Jun 2025 - Aug 2025 (Volunteer ongoing)",
+      "location": "Remote",
+      "highlights": [
+        "Drove 20% increase in donor engagement via targeted digital campaigns.",
+        "Executed outreach strategy reaching 1K+ individuals."
+      ]
+    },
+    {
+      "role": "Strategist / Content Writer",
+      "company": "InAmigos Foundation (IAF)",
+      "duration": "May 2025 - Jul 2025",
+      "location": "Remote",
+      "highlights": [
+        "Led 3+ campaign strategy plans resulting in 30% boost in outreach response.",
+        "Collaborated with 4+ stakeholders to implement awareness strategies."
+      ]
+    },
+    {
+      "role": "Intern - AI/ML Research",
+      "company": "Edu Versity",
+      "duration": "Jan 2024 - Feb 2025",
+      "location": "Remote",
+      "highlights": [
+        "Trained and evaluated 6+ ML models, achieving 85%+ accuracy.",
+        "Reduced model development time by 20% through streamlined preprocessing."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "AWS Remastered Version",
+      "year": "2025",
+      "description": "A front-end project to demonstrate the working of AWS for beginners."
+    },
+    {
+      "name": "K-browser (Project K)",
+      "type": "Open Source Initiative",
+      "description": "Windows-based browser application built as an open-source project.",
+      "link": "https://github.com/vijayrajeshr/K-browser"
+    },
+    {
+      "name": "Face-detection-using-opencv-and-python",
+      "year": "2025",
+      "description": "Python-based project to detect faces using built-in webcam in real time."
+    },
+    {
+      "name": "Sign Language Prediction",
+      "year": "2025",
+      "description": "Deep learning-based system for real-time ASL alphabet recognition using CNN."
+    },
+    {
+      "name": "File Flex",
+      "year": "2025",
+      "description": "Web application for effortless file conversion and compression."
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native or bilingual"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "Elementary"
+    }
+  ],
+  "achievements_and_roles": [
+    "Open Source Contributor",
+    "Student Ambassador @ Coincent.ai",
+    "Project Lead at Olcademy",
+    "LOR recipient from Labmentix"
+  ]
+}
